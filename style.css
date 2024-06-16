@@ -13,13 +13,6 @@ body, html {
     align-items: center;
 }
 
-body {
-    background-color: black;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
 .centered-box {
     background-color: #FFC0CB; /* Light pink color */
     padding: 20px;
