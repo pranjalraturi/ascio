@@ -11,6 +11,7 @@ html, body {
     display: flex;
     justify-content: center;
     align-items: center;
+    text-align: center; /* Center align the text in the body */
 }
 
 .centered-box {
@@ -20,7 +21,7 @@ html, body {
     border-radius: 10px;
     width: 80%;
     max-width: 800px; /* Increased max-width for larger content */
-    text-align: center;
+    text-align: center; /* Center align the text in the pink box */
     color: #333; /* Dark gray color */
 }
 
@@ -31,7 +32,7 @@ h1 {
 }
 
 .content {
-    text-align: left; /* Align text within the content box to the left */
+    text-align: center; /* Center align the text within the content div */
     margin-bottom: 10px;
 }
 
